@@ -1,1 +1,14 @@
-
+       program main
+       end
+       
+       function nis(x,n)
+       real nis,x
+       integer n,i
+       do i=1,n
+       nis=(-1)^(i-1)*(x^(2i-1)/jiecheng(2i-1))
+       
+       function jiecheng(p)
+       integer p,i
+       do i=1,p
+       
+       
